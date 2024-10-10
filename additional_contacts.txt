@@ -1,0 +1,10 @@
+Carlos Martinez,carlos.martinez@example.com,3051234567
+Lucia Gomez,lucia.gomez@example.com,7869876543
+Miguel Rodriguez,miguel.rodriguez@example.com,8187654321
+Sofia Hernandez,sofia.hernandez@example.com,2133456789
+John Smith,john.smith@example.com,2025550176
+Emily Johnson,emily.johnson@example.com,2125550123
+Michael Brown,michael.brown@example.com,7185550144
+Ashley Davis,ashley.davis@example.com,3235550198
+julio din,cars@mail.com,1228876767
+caramba bers,cartun@mail.com,0987896789
